@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button_add">#66BB6A</color>
+    <color name="button_delete">#DA615D</color>
+    <color name="button_confirm">#42A5F5</color>
+    <color name="button_cancel">#EA7C7C</color>
+</resources>
