@@ -5,6 +5,10 @@
 - **Full Name:** `Divy Vaghasiya`
 - **CCID:** `vaghasiy`
 
+## Adding and Deleting cities
+- **Adding:** To add a city click the `ADD CITY` button and type the city name and click `CONFIRM` button. To exit without adding press `CANCEL` button.
+- **Deleting:** To delete a city click on a city (selected city will be highlighted) then click the `DELETE` button.
+
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
